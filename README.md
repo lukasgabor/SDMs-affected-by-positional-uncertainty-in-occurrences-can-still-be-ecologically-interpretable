@@ -36,4 +36,4 @@ R_script_workflow1: Step-by-step guideline which allow replication of Workflow 1
 
 R_script_workflow2: Step-by-step guideline which allow replication of Workflow 2 from generating virtual species to plotting results. 
 
-R_script_workflow3: Step-by-step guideline which allow replication of Workflow 3 simulating positional error in occurrence data to plotting results.
+R_script_workflow3: Step-by-step guideline which allow replication of Workflow 3 from simulating positional error in occurrence data to plotting results.

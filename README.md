@@ -8,7 +8,9 @@ Previous work has documented the effect of positional uncertainty on model predi
 Here I will add the paper citation
 
 Code authors: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs),
-              [Vojtech Bartak](https://scholar.google.cz/citations?user=p8WAo8oAAAAJ&hl=cs&oi=ao)
+              [Vojtech Bartak](https://scholar.google.cz/citations?user=p8WAo8oAAAAJ&hl=cs&oi=ao),
+              [Matthew S. Rogan](https://scholar.google.cz/citations?user=OTgp4V8AAAAJ&hl=cs&oi=ao),
+              
 
 Date: 10/14/2022
 

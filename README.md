@@ -12,7 +12,7 @@ Cantabrian Brown bear dataset is available upon request from the authors and all
 
 Code author: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs)
 
-Date: 03/13/2022
+Date: 10/14/2022
 
 **Relevant paper:**
 Here I will add the paper citation

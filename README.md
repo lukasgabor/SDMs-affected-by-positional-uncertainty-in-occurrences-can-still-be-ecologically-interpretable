@@ -28,7 +28,7 @@ Environmental data are available for download on [Download Center of Autonomous 
 
 ***Workflow 3 - real environmental data + real species***
 
-Band-tailed Pigeon dataset can be downloaded [here](https://www.sciencebase.gov/catalog/item/5eb4485182ce25b5135abeea). Environmental data used for Band-tailed Pigeon SDMs are available for download on [modis](www.modis.gsfc.nasa.gov) (Mean winter EVI, ), [chelsea](www.chelsa-climate.org) (Seasonality of precipitation, Mean annual temperature, ), [earthenv](www.earthenv.org) (Cloud cover, Terrain ruggedness, EVI spatial heterogeneity), [soilgrids](www.soilgrids.org) (Soil clay content, Soil silt content), [envidat](www.envidat.ch) (Growing season precipitation).
+Band-tailed Pigeon dataset can be downloaded [here](https://www.sciencebase.gov/catalog/item/5eb4485182ce25b5135abeea). Environmental data used for Band-tailed Pigeon SDMs are available for download on [modis](https://modis.gsfc.nasa.gov/) (Mean winter EVI, ), [chelsea](https://chelsa-climate.org/) (Seasonality of precipitation, Mean annual temperature, ), [earthenv](https://www.earthenv.org/) (Cloud cover, Terrain ruggedness, EVI spatial heterogeneity), [soilgrids](https://www.soilgrids.org/) (Soil clay content, Soil silt content), [envidat](https://www.envidat.ch/#/) (Growing season precipitation).
 
 **File Description:**
 

@@ -5,7 +5,7 @@ This repository was created as a supporting material for the article exploring t
 Previous work has documented the effect of positional uncertainty on model predictive performance, but its consequences for inference about species-environment relationships remains largely unknown.  In our study, we explored the extent to which parameter estimation is affected by positional uncertainty. In total, we simulated 12 560 combinations of virtual and real environmental data and virtual species (Workflows 1, 2) to investigate our assumptions and have fitted over 628 000 models. Additionally, we tested our assumptions using real environmental variables and real species (Band-tailed Pigeon; Workflow 3).
 
 **Relevant paper:**
-Here I will add the paper citation
+[Link for published paper](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.06358)
 
 Code authors: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs),
               [Vojtech Bartak](https://scholar.google.cz/citations?user=p8WAo8oAAAAJ&hl=cs&oi=ao),
